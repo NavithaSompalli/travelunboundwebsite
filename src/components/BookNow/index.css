@@ -1,0 +1,39 @@
+.booknow-bg-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #bcc7d1;
+  background-size: cover;
+  height: 100vh;
+}
+
+.notes-heading {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #2e3c63;
+}
+.payment-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.bank-details-container {
+  margin: 10px;
+  border: 1px solid #4f495c;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.bank-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #2e3c63;
+}
+
+.bank-details {
+  margin-top: 10px;
+}
+
+.name-headings {
+  font-family: 'Roboto';
+  font-weight: bold;
+}

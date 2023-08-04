@@ -1,0 +1,23 @@
+.cost-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #bcc7d1;
+  background-size: cover;
+  height: 80%;
+}
+
+.costs-container {
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.costs-heading {
+  font-family: 'Bree Serif';
+  color: #2e3c63;
+}
+
+.costs-descriptions {
+  width: 60%;
+  font-family: 'Roboto';
+  font-size: 18px;
+}

@@ -1,0 +1,32 @@
+.nav-container {
+  height: 20vh;
+  background-color: #793eb5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.heading {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.ul-nav-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+}
+
+.list-item {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+  margin-left: 5px;
+}

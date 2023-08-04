@@ -1,0 +1,40 @@
+.itinerary-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #bcc7d1;
+  background-size: cover;
+  height: 100%;
+}
+
+.itinerary-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.image-element {
+  height: 200px;
+  width: 300px;
+}
+.itinerary-card {
+  width: 310px;
+  background-color: #ffffff;
+  padding: 5px;
+  box-shadow: 4px 4px 2px 2px #bcc7d1;
+  padding: 5px;
+  margin: 5px;
+}
+.days-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.days-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  width: 300px;
+}

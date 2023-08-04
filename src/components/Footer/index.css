@@ -1,0 +1,19 @@
+.bg-container {
+  background-color: #793eb5;
+  height: 15vh;
+  width: 100%;
+  position: bottom;
+  padding-left: 20px;
+}
+
+.contact-heading {
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.email {
+  font-size: 15px;
+
+  color: #ffffff;
+}

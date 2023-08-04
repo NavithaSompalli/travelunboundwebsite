@@ -1,0 +1,20 @@
+.overview-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #bcc7d1;
+  background-size: cover;
+  height: 80vh;
+}
+
+.overview-heading {
+  font-family: 'Bree Serif';
+  color: #2e3c63;
+}
+
+.overview-paragraph {
+  width: 60%;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
